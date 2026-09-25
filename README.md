@@ -33,6 +33,8 @@ NASA EONET provides information about naturally occurring events around the worl
 - SQL
 - Microsoft Excel
 - Power BI
+- Power Query
+-  DAX
 - NASA EONET API
 
 ##  Project Workflow
